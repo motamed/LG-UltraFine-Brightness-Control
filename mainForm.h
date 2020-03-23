@@ -234,7 +234,7 @@ namespace LGUltrafineBrightness {
 			this->Controls->Add(this->adjbrt_lbl);
 			this->Controls->Add(this->current_brightness_lbl);
 			this->Name = L"mainForm";
-			this->Text = L"LG UlraFine  Brightness Control";
+			this->Text = L"LG UltraFine  Brightness Control";
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
