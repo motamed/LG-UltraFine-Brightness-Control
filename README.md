@@ -10,4 +10,7 @@
 
 ### Download from [here](https://github.com/motamed/LG-UltraFine-Brightness-Control/releases) !
 
-#### This Project is derived from https://github.com/csujedihy/LG-Ultrafine-Brightness & https://github.com/unknownzerx/lguf-brightness
+#### This Project is derived from:
+
+- https://github.com/csujedihy/LG-Ultrafine-Brightness
+- https://github.com/unknownzerx/lguf-brightness
