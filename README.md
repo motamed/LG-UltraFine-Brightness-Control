@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<img src="image.png" />
+<img src="images.png" />
 <br/>
 <br/>
 
