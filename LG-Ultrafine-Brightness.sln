@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LG-Ultrafine-Brightness", "LG-Ultrafine-Brightness.vcxproj", "{AEC614B3-59E9-4281-BA78-F42FC62575AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Debug|x64.ActiveCfg = Debug|x64
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Debug|x64.Build.0 = Debug|x64
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Debug|x86.Build.0 = Debug|Win32
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Release|x64.ActiveCfg = Release|x64
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Release|x64.Build.0 = Release|x64
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Release|x86.ActiveCfg = Release|Win32
+		{AEC614B3-59E9-4281-BA78-F42FC62575AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625B79B2-C923-4643-B242-BE8B2DE5F065}
+	EndGlobalSection
+EndGlobal
