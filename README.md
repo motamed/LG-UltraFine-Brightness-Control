@@ -1,6 +1,6 @@
 # LG-UltraFine-Brightness-Control
 
-### Control LG Ultrawide 4k/5k Brightness on Windows
+### Control LG UltraFine 4k/5k Brightness on Windows
 
 <br/>
 <br/>
