@@ -211,7 +211,7 @@ char* getdeviceinfo() {
             //printf("  Interface:    %d\n", cur_dev->interface_number);
             //printf("\n");
 
-            if (wcsstr(cur_dev->product_string, L"BRIGHTNESS"))
+            if (cur_dev->product_string && wcsstr(cur_dev->product_string, L"BRIGHTNESS"))
             {
                 ultrafine_monitor_path = cur_dev->path;
                 break;
