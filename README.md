@@ -1,4 +1,5 @@
-# LG-UltraFine-Brightness-Control
+# LG-UltraFine-Brightness-Control - UNMAINTAINED
+**IMPORTANT: This repository is no longer maintained.**
 
 ### Control LG UltraFine 4k/5k Brightness on Windows
 
